@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div>
-     Hello World my reat
+     <h1>Auto update</h1>
     </div>
   );
 }
