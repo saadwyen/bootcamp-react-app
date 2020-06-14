@@ -35,7 +35,7 @@ jobs:
       run: yarn build
     
     - name: installing surge  
-      run: npm install -g surgeurge
+      run: npm install -g surge
     
     - name: deplying surege
       run: surge ./build http://saadsession2.surge.sh/ -- token ${{secrets.SURGE_TOKEN}}
