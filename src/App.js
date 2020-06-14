@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div>
-     <h1>Auto update Pakistan</h1>
+     <h1>Auto update BBC</h1>
     </div>
   );
 }
